@@ -1,6 +1,6 @@
 import { useState, useRef, useCallback } from "react";
 
-const API = "http://localhost:8000";
+const API = "https://fabric-check-api.onrender.com";
 
 const FABRICS = {
   "Kasmir": 95, "Ipek": 90, "Keten": 85, "Pamuk": 80, "Yun": 78,
