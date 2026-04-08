@@ -3,5 +3,5 @@
   &nbsp;&nbsp;
   <img src="screenshots/scan.png" width="250" alt="Etiket Tarama" />
   &nbsp;&nbsp;
-  <img src="screenshots/result.png" width="250" alt="Sonuc Ekrani" />
+  <img src="result.png" width="250" alt="Sonuc Ekrani" />
 </p>
